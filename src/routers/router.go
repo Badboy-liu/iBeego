@@ -6,7 +6,7 @@ package routers
 
 import (
 	"github.com/beego/beego/v2/server/web"
-	"goBeego/controllers/test"
+	"iBeego/controllers/test"
 )
 
 func RegisterController() {

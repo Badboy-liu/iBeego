@@ -2,7 +2,7 @@ package orm
 
 import (
 	"github.com/beego/beego/v2/client/orm"
-	"goBeego/models"
+	"iBeego/models"
 	"io"
 )
 

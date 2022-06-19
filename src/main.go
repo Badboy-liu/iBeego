@@ -1,7 +1,7 @@
 package main
 
 import (
-	"goBeego/context"
+	"iBeego/context"
 )
 
 func main() {

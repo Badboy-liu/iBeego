@@ -3,7 +3,7 @@ package test
 import (
 	"api/vo"
 	"encoding/json"
-	"goBeego/controllers/base"
+	"iBeego/controllers/base"
 	"log"
 	"mime/multipart"
 )

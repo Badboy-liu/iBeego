@@ -7,12 +7,14 @@ require (
 	github.com/beego/beego/v2 v2.0.4
 	github.com/go-macaron/i18n v0.6.0
 	github.com/go-sql-driver/mysql v1.6.0
+	gopkg.in/yaml.v3 v3.0.1
 )
 
 replace api => ../api
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
+	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
@@ -43,5 +45,4 @@ require (
 	gopkg.in/ini.v1 v1.46.0 // indirect
 	gopkg.in/macaron.v1 v1.4.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
